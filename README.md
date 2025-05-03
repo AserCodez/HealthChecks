@@ -7,3 +7,4 @@ Yea I made some changes and they aren't pulled
 Easy shit
 
 Life is amazing too Alf hamdalla
+  Am trying to cause a Merge COnflict

@@ -16,3 +16,4 @@ Same Line same trouble
 
 Each commit is self contained 
 2nd Self contained code
+3rd thing

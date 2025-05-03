@@ -7,8 +7,5 @@ Yea I made some changes and they aren't pulled
 Easy shit
 
 Life is amazing too Alf hamdalla
-  Am trying to cause a Merge COnflict
-  And boom now I have a Merge Conflict
-Broski Crash Come on plz
-ANOTHE RRAHSHSHSHHSHS
-Here it won't crash see
+Boom Wrong 
+

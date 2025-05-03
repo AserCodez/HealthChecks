@@ -9,3 +9,4 @@ Easy shit
 Life is amazing too Alf hamdalla
   Am trying to cause a Merge COnflict
   And boom now I have a Merge Conflict
+HAHAHHAHA
